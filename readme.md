@@ -1,4 +1,4 @@
-[![MasterHead](<iframe src="https://gifer.com/embed/77by" width=480 height=236.348 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>)](https://rishavchanda.io)
+[![MasterHead](https://i.gifer.com/77by.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Durvesh Gambhe</h1>
 <h3 align="center">A cyber security enthusiast and programmer from India</h3>
 
