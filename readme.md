@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/W527m-M03y8AAAAC/dankata.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Durvesh Gambhe</h1>
 <h3 align="center">A cyber security enthusiast and programmer from India</h3>
 
