@@ -20,7 +20,7 @@
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=D-Sensei&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/oldratlee/hacker-quotes)
 
 
