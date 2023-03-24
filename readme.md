@@ -1,4 +1,4 @@
-[![MasterHead](https://www.psyop.com/wp-content/uploads/2020/04/gif-1.gif)](https://rishavchanda.io)
+[![MasterHead](https://azadshukor.com/memoji.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Durvesh Gambhe</h1>
 <h3 align="center">A cyber security enthusiast and programmer from India</h3>
 
