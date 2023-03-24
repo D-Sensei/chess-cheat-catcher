@@ -17,6 +17,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=D-Sensei&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Sensei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### Watch my contribution graph get eaten by the snake 🐍
+<p align="center">
+ <img align="center" src="https://github.com/BolisettySujith/BolisettySujith/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=D-Sensei&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
