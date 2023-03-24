@@ -23,7 +23,7 @@
 </p>
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=D-Sensei&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anutron&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Quote of the Day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/oldratlee/hacker-quotes)
